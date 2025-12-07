@@ -1,14 +1,14 @@
-# <Your Name Here>
+# Bryce Witte
 
 Hello, GitHub! 👋
 
-I'm <Bryce Everett Witte>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Bryce Everett Witte, a student at Brigham Young University-Idaho interested in general computer science & coding/programming games. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning 
+- My goals are to eventually 
+- Ask me about 
 
 ## Technologies and Tools
 
